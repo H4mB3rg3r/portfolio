@@ -12,7 +12,6 @@ node_modules
 coverage
 *.local
 .env
-public
 app/index.php
 app/_test.php
 app/_env.php
